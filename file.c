@@ -1,5 +1,6 @@
 #include <iostream> 
 #include <stdio.h>
+#include <cmath.h>
 using namespace std;
 
 
