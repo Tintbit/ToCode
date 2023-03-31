@@ -8,7 +8,7 @@
  hope y find it helpful
 \, y can also search for notes, blueprints, cheatsheets!
 
- ## Resources
+ #### Resources
 - https://github.com/PacktPublishing/Expert-CPP
 - 
 This me B!T
